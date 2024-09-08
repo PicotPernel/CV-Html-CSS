@@ -1,0 +1,71 @@
+a:link {
+    color: lightcyan;
+    text-decoration: none;
+}
+
+a:visited {
+    color: lightcyan;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(255, 100, 203);
+}
+
+td,
+th {
+    border: 0px solid #000000;
+    text-align: left;
+    padding: 2px;
+}
+
+img {
+    width: 180px;
+    position: absolute;
+    top: 8px;
+    right: 8px;
+}
+
+ul {
+    list-style-type: "\1F5E3";
+}
+
+
+body {
+    background-color: rgb(168, 179, 184);
+}
+
+#info {
+    margin-bottom: 20px;
+}
+
+#etudes {
+    border: 3px dotted #000000;
+    border-radius: 10px;
+    background-color: #cbd8e2;
+    margin-bottom: 20px;
+}
+
+#competences {
+    border: 3px dotted #000000;
+    border-radius: 10px;
+    background-color: #899ba8;
+    margin-bottom: 20px;
+}
+
+#experiences {
+    border: 3px dotted #000000;
+    border-radius: 10px;
+    background-color: #cbd8e2;
+    margin-bottom: 20px;
+}
+
+#divers {
+    border: 3px dotted #000000;
+    border-radius: 10px;
+    background-color: #899ba8
+}
+
+.AltColorCyan {
+    background-color: #bac8cf;
+}
